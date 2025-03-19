@@ -4,21 +4,6 @@
 
 ---
 
-## 📌 Table of Contents
-- [Introduction](#introduction)
-- [Problem Statement](#problem-statement)
-- [Relevance to Industry Trends](#relevance-to-industry-trends)
-- [Proposed Solution](#proposed-solution)
-- [Methodology](#methodology)
-- [Implementation Details](#implementation-details)
-- [Results & Analysis](#results--analysis)
-- [Future Improvements & Next Steps](#future-improvements--next-steps)
-- [Setup & Installation](#setup--installation)
-- [Usage Instructions](#usage-instructions)
-- [References](#references)
-
----
-
 ## 📌 Introduction
 With the emergence of **6G networks**, there is a need for **AI-driven dynamic modulation selection** to improve spectral efficiency and bandwidth optimization. Traditional fixed-threshold methods are inefficient for varying channel conditions.
 
@@ -84,12 +69,22 @@ This project aligns with **emerging 6G wireless technologies**:
 
 ---
 
+## 📌 Setup & Installation
+### **🔧 Prerequisites**
+✅ **Python 3.8+**  
+✅ Install dependencies:
+```bash
+pip install torch numpy matplotlib
+
+
 ## 📌 Implementation Details
 ### **🛠 Tools & Libraries Used**
 ✔ **Python 3.8+** – Programming Language  
 ✔ **PyTorch** – Deep Learning Framework  
 ✔ **NumPy** – Numerical Computation  
 ✔ **Matplotlib** – Visualization  
+
+
 
 ### **📡 Dataset & Input Parameters**
 | **Parameter** | **Value Range** |
@@ -131,9 +126,3 @@ This project aligns with **emerging 6G wireless technologies**:
 
 ---
 
-## 📌 Setup & Installation
-### **🔧 Prerequisites**
-✅ **Python 3.8+**  
-✅ Install dependencies:
-```bash
-pip install torch numpy matplotlib
