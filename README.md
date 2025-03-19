@@ -75,6 +75,7 @@ This project aligns with **emerging 6G wireless technologies**:
 ✅ Install dependencies:
 ```bash
 pip install torch numpy matplotlib
+```
 
 ---
 
