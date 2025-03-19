@@ -115,13 +115,12 @@ This project aligns with **emerging 6G wireless technologies**:
 ✔ **Smooth transition from QPSK → 16-QAM → 64-QAM**  
 ✔ **No abrupt switching, ensuring network stability**  
 
-📷 *(Insert Modulation Selection Graph Here)*  
 
 ### **📊 Reward Progression Over Training**
 ✔ **Rewards stabilize above 1.10**, proving **optimal AI learning**  
 ✔ **No severe dips**, confirming **AI's stable performance**  
 
-📷 *(Insert Reward Progression Graph Here)*  
+![Modulation AI](results/Modulation_AI.png)
 
 ---
 
