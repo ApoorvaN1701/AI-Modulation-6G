@@ -70,7 +70,7 @@ This project aligns with **emerging 6G wireless technologies**:
 ---
 
 ##  Setup & Installation
-### ** Prerequisites**
+### Prerequisites
 **Python 3.8+**  
 Install dependencies:
 ```bash
@@ -80,7 +80,7 @@ pip install torch numpy matplotlib
 ---
 
 ##  Implementation Details
-### ** Tools & Libraries Used**
+### Tools & Libraries Used
 ✔ **Python 3.8+** – Programming Language  
 ✔ **PyTorch** – Deep Learning Framework  
 ✔ **NumPy** – Numerical Computation  
@@ -88,7 +88,7 @@ pip install torch numpy matplotlib
 
 
 
-### ** Dataset & Input Parameters**
+### Dataset & Input Parameters
 | **Parameter** | **Value Range** |
 |--------------|---------------|
 | **SNR (dB)** | 0 - 30 |
@@ -97,7 +97,7 @@ pip install torch numpy matplotlib
 | **Power (W)** | 0.5 - 2.0 |
 | **Training Episodes** | 5000 |
 
-### ** AI Model (DQN) Architecture**
+###  AI Model (DQN) Architecture
 | **Layer** | **Input** | **Output** | **Activation** |
 |-----------|----------|-----------|--------------|
 | Fully Connected (FC1) | 3 | 256 | ReLU |
@@ -107,13 +107,13 @@ pip install torch numpy matplotlib
 ---
 
 ##  Results & Analysis
-### ** Modulation Selection vs. SNR**
+### Modulation Selection vs. SNR
 ✔ AI **correctly selects modulation** based on **SNR conditions**  
 ✔ **Smooth transition from QPSK → 16-QAM → 64-QAM**  
 ✔ **No abrupt switching, ensuring network stability**  
 
 
-### ** Reward Progression Over Training**
+### Reward Progression Over Training
 ✔ **Rewards stabilize above 1.10**, proving **optimal AI learning**  
 ✔ **No severe dips**, confirming **AI's stable performance**  
 
